@@ -30,7 +30,7 @@
 			          	<th>Sl</th>  
                   <th>USN</th>  
                   <th>Name</th> 
-                  <th>Email</th> 
+                  <th>Course</th> 
                   <th>Mobile</th>
                   <th>Date</th>
                   <th>Entry</th>
@@ -82,4 +82,5 @@
 <!-- MAIN CONTENT ENDS -->
 <?php
 	require_once "./template/footer.php";
+
 ?>
